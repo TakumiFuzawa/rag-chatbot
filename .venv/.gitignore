@@ -1,0 +1,26 @@
+# 環境変数（最重要：絶対にGitHubに上げない）
+.env
+.env.*
+
+# Python仮想環境
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/settings.json
+
+# Azure Functions
+local.settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log

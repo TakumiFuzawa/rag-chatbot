@@ -95,6 +95,8 @@ uvicorn app:app --reload
 http://127.0.0.1:8000
 
 ## 📁 フォルダ構成
+
+```
 rag-chatbot/
 ├── app.py              # FastAPI サーバー
 ├── index.html          # チャット画面
@@ -106,7 +108,8 @@ rag-chatbot/
 │   ├── chatbot.py      # CLI版チャットボット
 │   └── create_pdf.py   # PDF作成ツール
 └── data/
-└── sample.pdf      # サンプルPDF
+    └── sample.pdf      # サンプルPDF
+```
 
 ## 🔑 環境変数
 

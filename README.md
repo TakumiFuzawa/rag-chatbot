@@ -115,6 +115,13 @@ rag-chatbot/
 
 `.env.example`を参照してください。
 
+## 📸 スクリーンショット
+
+<div style="display: flex; gap: 16px;">
+  <img src="images/screenshot.png" width="48%" alt="起動画面">
+  <img src="images/screenshot2.png" width="48%" alt="回答画面">
+</div>
+
 ## 📝 学習目的
 
 このプロジェクトはAzure AIサービスの学習を目的として作成しました。
